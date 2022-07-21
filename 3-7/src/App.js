@@ -16,8 +16,9 @@ function App() {
     const handleSubmit = () => {
         //code for submitting code
         alert("Welcome!");
+      
     };
-
+ 
     return (
         <div className='App'>
             <h2>Email</h2>
